@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a snapshot of my current skills and ongoing project:
 
-## About Me
+## About Me😊😌
 - 👀 I’m interested in Front-end development and web development.
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS, and C#.
 - 🏗️ I'm actively working on building an Airbnb clone project using my developing skills.
@@ -27,5 +27,7 @@ Welcome to my GitHub profile! Here's a snapshot of my current skills and ongoing
 
 ## Let's Connect!
 Feel free to reach out for collaboration opportunities, tech discussions, or to connect over shared interests. Let's learn and create together! ✨
+
+
 💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞💞
 
