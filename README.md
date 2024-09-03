@@ -13,8 +13,7 @@ Welcome to my GitHub profile! Here’s a snapshot of my current skills,  project
 - **Web Development**: Developing responsive and dynamic web applications.
 - **Data Visualization**: Utilizing Chart.js for interactive and informative data representations.
 - **Backend Development**: Django DRF, MySQL, JWT, RESTful API design.
-- **DevOps**: Linux, Nginx, Git, GitHub, API Documentation with Swagger UI, Task scheduling with Django Apscheduler.
-- **AI Integration**: Incorporating Gemini AI API for delivering daily financial insights.
+- **DevOps**: Linux, Nginx, Git, GitHub and Bash
 
 ## Projects
 
